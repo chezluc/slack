@@ -10414,3 +10414,14 @@ body {
   background: #222 !important !important;
   color: #e6e6e6 !important !important;
 }
+
+
+.p-jumper__help {
+  background: #222 !important !important;
+  color: #e6e6e6 !important !important;
+}
+
+.c-team__display-name, .c-unified_member__display-name, .c-usergroup__handle {
+  background: #222 !important !important;
+  color: #e6e6e6 !important !important;
+}

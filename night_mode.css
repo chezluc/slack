@@ -5,7 +5,7 @@ body {
      background: #222 !important !important;
      color: #e6e6e6;
 }
-#client_body {
+#client_body, #client_main_container, #client_container, #client-ui {
   background: #222 !important !important;
 }
  a {

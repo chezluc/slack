@@ -10405,7 +10405,12 @@ body {
 }
 
 
-
 .p-flexpane_header {
   background: #222 !important !important;
+  color: #e6e6e6;
+}
+
+.c-file_container {
+  background: #222 !important !important;
+  color: #e6e6e6;
 }

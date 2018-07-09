@@ -1,10 +1,10 @@
+
+
+
 html {
      background: #222 !important;
 }
-body {
-     background: #222 !important !important;
-     color: #e6e6e6;
-}
+
 #client_body, #client_main_container, #client_container, #client-ui {
   background: #222 !important !important;
 }
@@ -6608,4 +6608,10 @@ body {
 }
  .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active {
      filter: grayscale(2) brightness(2);
+}
+/*Fix for version 3.1.1*/
+.p-message_pane .c-message_list:not(.c-virtual_list--scrollbar), .p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider { background: #222 !important;}
+body {
+     background: #222 !important !important;
+     color: #e6e6e6;
 }

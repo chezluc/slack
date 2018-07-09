@@ -5,6 +5,9 @@ body {
      background: #222 !important !important;
      color: #e6e6e6;
 }
+#client_body {
+  background: #222 !important !important;
+}
  a {
      color: #949494;
 }

@@ -10426,7 +10426,7 @@ body {
   color: #e6e6e6 !important !important;
 }
 
-.c-message__sender_link a, .c-message__sender_link {
+.c-message__sender_link {
   background: #222 !important !important;
   color: #e6e6e6 !important !important;
 }

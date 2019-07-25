@@ -4035,4 +4035,15 @@ form {
   color:#eee !important;
 }
 
+
+.p-classic-nav {
+  background-color: #1f1f1f !important;
+  color:#ccc;
+}
+
+
+.p-classic_nav__model__title, .p-classic_nav__model__title__name__status--im {
+  color:#ccc !important;
+}
+
 /* endpoint */
